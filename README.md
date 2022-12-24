@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Springboot, JavaScript, React, Python**
 
-- 📫 How to reach me **radhikarathi308@gmail.com**
+- 📫 Reach me at **radhikarathi308@gmail.com**
 
 - ⚡ Fun fact **I am an artist**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radhika Rathi</h1>
+<h1 align="center">Hi 👋, I'm Radhika</h1>
 <h3 align="center">A recent graduate with a passion for technology and coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikarathi04&label=Profile%20views&color=0e75b6&style=flat" alt="radhikarathi04" /> </p>

@@ -4,18 +4,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radhikarathi04&label=Profile%20views&color=0e75b6&style=flat" alt="radhikarathi04" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, basically front end development**
+<div align="center">
+  <p align="center">
+    - 🌱 I’m currently learning <strong>JavaScript, React, basically front-end development</strong>
+    <br />
+    - 📫 Reach me at <strong>radhikarathi308@gmail.com</strong>
+    <br />
+    - ⚡ Fun fact: <strong>I am an artist</strong>
+  </p>
+</div>
 
-- 📫 Reach me at **radhikarathi308@gmail.com**
 
-- ⚡ Fun fact **I am an artist**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/radhikarathi308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radhikarathi308" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/radhikarathi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhikarathi04" height="30" width="40" /></a>
-<a href="https://instagram.com/@radhikarathii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@radhikarathii" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
@@ -58,9 +58,10 @@
     <img src="https://www.vectorlogo.zone/log
 
 
+
 <div align="center">
   <!-- Content above the GitHub Readme Stats card -->
-
+<h3 align="center">Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radhikarathi04&show_icons=true&locale=en&layout=compact" alt="radhikarathi04" />
 </div>
@@ -70,6 +71,12 @@
 </div>
 
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/radhikarathi308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radhikarathi308" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/radhikarathi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhikarathi04" height="30" width="40" /></a>
+<a href="https://instagram.com/@radhikarathii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@radhikarathii" height="30" width="40" /></a>
+</p>
 
 
 

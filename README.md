@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikarathi04&label=Profile%20views&color=0e75b6&style=flat" alt="radhikarathi04" /> </p>
 
-- 🌱 I’m currently learning **Java, Springboot, JavaScript, React, Python**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 Reach me at **radhikarathi308@gmail.com**
 

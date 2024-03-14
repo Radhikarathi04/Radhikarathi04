@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Radhika</h1>
+<h1 align="center">Hi, I'm Radhika <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Wave Hand" width="32" height="32">
+</picture> </h1>
+
 <h3 align="center">I'm passionate about technology, design and business</h3>
 <p align="center">When I'm not programming, you can find me doing yoga, travelling, listening to podcasts, cooking, sketching or reading.</p>
 

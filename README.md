@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-    - 🌱 I’m currently learning <strong>JavaScript, React, basically front-end development</strong>
+    👩‍💻 I am a software engineer based in London, currently enrolled in a graduate scheme. My experience includes web development, and I'm currently diving into iOS development. I strongly believe in the philosophy of T-shaped learning.</strong>
     <br />
     - 📫 Reach me at <strong>radhikarathi308@gmail.com</strong>
     <br />

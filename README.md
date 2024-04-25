@@ -3,18 +3,18 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Wave Hand" width="32" height="32">
 </picture> </h1>
 
-<h3 align="center">I'm passionate about technology, design and business</h3>
-<p align="center">When I'm not programming, you can find me doing yoga, travelling, listening to podcasts, cooking, sketching or reading.</p>
+<h3 align="center">I am a software engineer based in London</h3>
+<p align="center">👩‍💻 I'm currently enrolled in a graduate scheme. My experience includes web development, and I'm currently diving into iOS development. I believe in the philosophy of T-shaped learning.</p>
+<p align="center">💗 I love trying new things and enjoy doing yoga, travelling, listening to podcasts, cooking, sketching and reading.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radhikarathi04&label=Profile%20views&color=0e75b6&style=flat" alt="radhikarathi04" /> </p>
 
 <div align="center">
   <p align="center">
-    👩‍💻 I am a software engineer based in London, currently enrolled in a graduate scheme. My experience includes web development, and I'm currently diving into iOS development. I strongly believe in the philosophy of T-shaped learning.</strong>
     <br />
-    - 📫 Reach me at <strong>radhikarathi308@gmail.com</strong>
+    📫 Reach me at <strong>radhikarathi308@gmail.com</strong>
     <br />
-    - ⚡ Fun fact: <strong>I am an artist</strong>
+    ⚡ Fun fact: <strong>I am an artist</strong>
   </p>
 </div>
 

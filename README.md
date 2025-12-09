@@ -87,10 +87,10 @@
 
 
 👋 Hi, I’m @Radhikarathi04
-- 👀 I’m interested in technology, design and art
-- 🌱 I’m currently working as a Software Engineer focusing on Frontend development with UI/UX Design
-- 👩‍💻 Tech stack I use: HTML, CSS, JavaScript and React
-- 🤓 I also focus on important aspects such as accessibility and catering to all users needs
+- 💡 Passionate about technology, design, and art, with a strong focus on creating intuitive and visually appealing user experiences.
+- 🌱 Currently working as a Frontend Software Engineer, specializing in UI/UX design and crafting accessible, user-centric interfaces.
+- 👩‍💻 Tech Stack: HTML, CSS, JavaScript, React
+- 🎯 Dedicated to building inclusive and accessible applications that meet diverse user needs.
 
 <!---
 Radhikarathi04/Radhikarathi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -60,18 +60,16 @@
     <img src="https://www.vectorlogo.zone/log
 
 
-
 <div align="center">
   <!-- Content above the GitHub Readme Stats card -->
-<h3 align="center">Stats</h3>
+  <!-- <h3 align="center">Stats</h3> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radhikarathi04&show_icons=true&locale=en&layout=compact" alt="radhikarathi04" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radhikarathi04&show_icons=true&locale=en&layout=compact" alt="radhikarathi04" /> -->
 </div>
 
 
   <!-- Content below the GitHub Readme Stats card -->
 </div>
-
 
 
 

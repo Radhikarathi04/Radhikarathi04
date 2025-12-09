@@ -88,6 +88,7 @@
 - 💡 Passionate about technology, design, and art, with a strong focus on creating intuitive and visually appealing user experiences.
 - 🌱 Currently working as a Frontend Software Engineer, specializing in UI/UX design and crafting accessible, user-centric interfaces.
 - 👩‍💻 Tech Stack: HTML, CSS, JavaScript, React
+- ✨ I have a particular interest in accessibility and enjoy collaborating with UX teams to build and maintain design systems that scale.
 - 🎯 Dedicated to building inclusive and accessible applications that meet diverse user needs.
 
 <!---

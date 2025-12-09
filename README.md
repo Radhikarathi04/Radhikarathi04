@@ -84,7 +84,7 @@
 
 
 
-👋 Hi, I’m @Radhikarathi04
+👋 I’m Radhika
 - 💡 Passionate about technology, design, and art, with a strong focus on creating intuitive and visually appealing user experiences.
 - 🌱 Currently working as a Frontend Software Engineer, specializing in UI/UX design and crafting accessible, user-centric interfaces.
 - 👩‍💻 Tech Stack: HTML, CSS, JavaScript, React

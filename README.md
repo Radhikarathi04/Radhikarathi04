@@ -4,7 +4,7 @@
 </picture> </h1>
 
 <!--
-<h3 align="center">I am a software engineer based in London</h3>
+<h3 align="center">Frontend Software Engineer @ M&S | React, Next.js, TypeScript | Performance & Product | A/B Testing</h3>
 <p align="center">👩‍💻 I'm currently enrolled in a graduate scheme. My experience includes web development, and I'm currently diving into iOS development. I believe in the philosophy of T-shaped learning.</p>
 <p align="center">💗 I love trying new things and enjoy doing yoga, travelling, listening to podcasts, cooking, sketching and reading.</p>
 

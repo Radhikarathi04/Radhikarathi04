@@ -85,10 +85,9 @@
 
 
 👋 I’m Radhika
-- 💡 Passionate about technology, design, and art, with a strong focus on creating intuitive and visually appealing user experiences.
-- 🌱 Currently working as a Frontend Software Engineer, specializing in UI/UX design and crafting accessible, user-centric interfaces.
+- Frontend Software Engineer @ M&S | React, Next.js, TypeScript | Performance & Product | Design Systems & A/B Testing
+- 💡 Passionate about technology and design, with a strong focus on creating intuitive and visually appealing user experiences.
 - 👩‍💻 Tech Stack: HTML, CSS, JavaScript, React
-- ✨ I have a particular interest in accessibility and enjoy collaborating with UX teams to build and maintain design systems that scale.
 - 🎯 Dedicated to building inclusive and accessible applications that meet diverse user needs.
 
 <!---

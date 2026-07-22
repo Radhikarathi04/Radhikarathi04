@@ -13,7 +13,7 @@ I build scalable, accessible web experiences that users love. I focus on the int
 - **User-centric engineering** - Great frontend work isn't about implementing designs beautifully; it's about solving problems at scale
 - **Measurable impact** - Features should tie to metrics: revenue, engagement, user satisfaction, or speed
 - **Accessibility** - Building inclusive products means designing for diverse needs from the start
-- **Design system thinking** - Reusable components, consistency at scale, and enabling teams to move faster
+- **Design system** - Reusable components, consistency at scale, and enabling teams to move faster
 
 
 ## Tech Stack

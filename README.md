@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **Radhika**, a Software Engineer, building high-traffic consumer experiences for millions of users.
+I'm Radhika, a Software Engineer, building high-traffic consumer experiences for millions of users.
 
 ## What I Do
 

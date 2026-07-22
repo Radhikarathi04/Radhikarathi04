@@ -9,7 +9,7 @@ I build scalable, accessible web experiences that users love. I focus on the int
 
 ## My interests are
 
-- **Performance as a feature** - Core Web Vitals, lazy loading, image optimization, and accessibility aren't afterthoughts
+- **Performance** - Core Web Vitals, lazy loading, image optimization, and accessibility aren't afterthoughts
 - **User-centric engineering** - Great frontend work isn't about implementing designs beautifully; it's about solving problems at scale
 - **Measurable impact** - Features should tie to metrics: revenue, engagement, user satisfaction, or speed
 - **Accessibility** - Building inclusive products means designing for diverse needs from the start

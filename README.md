@@ -33,8 +33,8 @@ A/B Testing • Analytics • Accessibility (WCAG 2.1) • On-call • Agile •
 
 ## Highlights
 
-- 🤖 **AI Hackathon Winner** - Built an end-to-end AI-powered engineering solution using spec-driven development
-- 🎤 **Speaker** - Delivered a STEM career talk to 50+ students at St. Marylebone Girls School
+- **AI Hackathon Winner** - Built an end-to-end AI-powered engineering solution using spec-driven development
+- **Speaker** - Delivered a STEM career talk to 50+ students at St. Marylebone Girls School
 
 ## Let's Connect
 

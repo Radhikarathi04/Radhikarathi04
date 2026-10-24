@@ -19,8 +19,8 @@ Playwright · Jest · React Testing Library · Storybook · WCAG Accessibility
 **Performance & Engineering**  
 Core Web Vitals · Web Performance · Feature Flags · A/B Testing · CI/CD
 
-**Areas of Interest**  
-AI-Powered Products · Product Development · Growth Experimentation · Customer Experience · Developer Tools
+**Areas of Interest**
+Design Engineering · AI-Assisted Development · Product Experimentation · Growth Engineering · A/B Testing · Analytics
 
 ## Highlights
 

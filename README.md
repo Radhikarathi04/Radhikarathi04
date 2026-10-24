@@ -24,9 +24,9 @@ AI-Powered Products · Product Development · Growth Experimentation · Customer
 
 ## Highlights
 
+- **1st place — M&S Web Experience AI Hackathon:** Built AI-assisted prototypes using a spec-driven workflow, including a Figma-to-code implementation.
 - Contributed to customer-facing experiments associated with measurable improvements in purchase conversion.
-- Experience across frontend, iOS, and backend development.
-- Won **1st place in an AI hackathon** for an AI-assisted, spec-driven design-to-code prototype.
+- Experience spanning frontend, iOS, and backend development.
 
 ## Let's Connect
 

@@ -1,8 +1,6 @@
 # Hey, I'm Radhika 👋
 
-
-I'm a product-minded Software Engineer working at the intersection of **frontend engineering, AI-assisted development, accessibility, and product experimentation**.
-I enjoy turning product ideas into working digital experiences, using technology and experimentation to improve customer journeys.
+I'm a product-minded Software Engineer at the intersection of **frontend engineering, AI-assisted prototyping, accessibility, and product experimentation**. I turn product concepts into working digital experiences, combining engineering, rapid prototyping, and experimentation to improve customer journeys.
 
 ## About Me
 
